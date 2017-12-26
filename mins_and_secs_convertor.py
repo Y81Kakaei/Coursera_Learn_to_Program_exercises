@@ -1,3 +1,5 @@
+# This is code is not mine.
+# I just rewrote it while I was taking the course
 def convert_to_minutes(num_hours):
     '''(int) -> int
     Return the number of minutes there are in num_hours hours.
