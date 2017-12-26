@@ -1,4 +1,4 @@
-# This is code is not mine.
+# This code is not mine.
 # I just rewrote it while I was taking the course
 def convert_to_minutes(num_hours):
     '''(int) -> int
