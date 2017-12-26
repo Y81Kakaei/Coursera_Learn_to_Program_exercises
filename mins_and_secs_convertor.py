@@ -13,6 +13,8 @@ def convert_to_seconds(num_hours):
     >>> convert_to_minutes(2)
     7200
     '''
-    return convert_to_minutes(num_hours) * 60
+    minutes = convert_to_minutes(num_hours)
+    seconds =  minutes * 60
+    return seconds
 
 seconds_2 = convert_to_seconds(12)
